@@ -96,6 +96,21 @@ Visit `http://localhost:8000` in your browser.
 ### Admin Panel URL
 `http://localhost:8000/admin/login`
 
+## 🌐 Live Demo
+
+### Frontend Preview
+**Live Website**: https://tushitha4.github.io/job-yari/
+
+The live demo showcases:
+- ✅ Responsive design on mobile and desktop
+- ✅ AJAX filtering by category and date
+- ✅ Real-time search functionality
+- ✅ Modern UI with animations
+- ✅ Blog card interactions
+
+### Full Application
+For complete admin panel functionality, deploy the Laravel version to a hosting platform following the DEPLOYMENT.md instructions.
+
 ## 📁 Project Structure
 
 ```
