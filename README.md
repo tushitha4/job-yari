@@ -3,6 +3,7 @@
 A modern, responsive blog management system built with Laravel, featuring AJAX filtering, search functionality, and an intuitive admin panel.
 
 ## 🚀 Features
+live link: https://tushitha4.github.io/job-yari/
 
 ### Frontend Features
 - **Responsive Design**: Works seamlessly on mobile, tablet, and desktop devices
