@@ -99,7 +99,7 @@ Visit `http://localhost:8000` in your browser.
 ## 🌐 Live Demo
 
 ### Frontend Preview
-**Live Website**: https://tushitha4.github.io/job-yari/
+**Live Website**: https://tushitha4.github.io/job-yari/index.html
 
 The live demo showcases:
 - ✅ Responsive design on mobile and desktop
@@ -107,6 +107,16 @@ The live demo showcases:
 - ✅ Real-time search functionality
 - ✅ Modern UI with animations
 - ✅ Blog card interactions
+
+### Admin Panel Demo
+**Admin Panel**: https://tushitha4.github.io/job-yari/admin.html
+
+The admin demo showcases:
+- ✅ Login interface (admin@blogyaari.com / admin123)
+- ✅ Dashboard with statistics
+- ✅ Blog management interface
+- ✅ Create/edit blog forms
+- ✅ Responsive admin design
 
 ### Full Application
 For complete admin panel functionality, deploy the Laravel version to a hosting platform following the DEPLOYMENT.md instructions.
