@@ -4,6 +4,7 @@ A modern, responsive blog management system built with Laravel, featuring AJAX f
 
 ## 🚀 Features
 live link: https://tushitha4.github.io/job-yari/
+https://tushitha4.github.io/job-yari/admin.html-admin link
 
 ### Frontend Features
 - **Responsive Design**: Works seamlessly on mobile, tablet, and desktop devices
